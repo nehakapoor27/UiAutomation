@@ -178,9 +178,9 @@ public class User {
 
 
 	public static User getUser() {
-		User user_ref = new User();
+		User user = new User();
 		//user.setFirstname1();
-		return user_ref;
+		return user;
 	}
 	
 	
