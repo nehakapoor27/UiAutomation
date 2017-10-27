@@ -1,0 +1,92 @@
+2017-10-25 18:34:12 INFO  TC001_verifyloginwithInvalidCredentials:74 - starting test with invalid credential
+2017-10-25 18:34:15 INFO  HomePage:53 - clicked on signin and object is[[FirefoxDriver: firefox on MAC (badfde05-ca2c-814f-bd0e-c94edb3dfcc1)] -> xpath: html/body/div[1]/div[1]/header/div[2]/div/div/nav/div[1]/a]
+2017-10-25 18:34:15 INFO  HomePage:57 - entered email addresstest@gmail.comobject is[[FirefoxDriver: firefox on MAC (badfde05-ca2c-814f-bd0e-c94edb3dfcc1)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[2]/form/div/div[1]/input]
+2017-10-25 18:34:15 INFO  HomePage:62 - entered passwordtest123objec is[[FirefoxDriver: firefox on MAC (badfde05-ca2c-814f-bd0e-c94edb3dfcc1)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[2]/form/div/div[2]/span/input]
+2017-10-25 18:34:17 INFO  HomePage:68 - clicksubmitbtn[[FirefoxDriver: firefox on MAC (badfde05-ca2c-814f-bd0e-c94edb3dfcc1)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[2]/form/div/p[2]/button]
+2017-10-25 18:34:17 INFO  HomePage:75 - loginfailedAuthentication failed.
+2017-10-25 18:34:17 INFO  TC001_verifyloginwithInvalidCredentials:81 - ending test with invalid credential
+2017-10-26 01:02:12 INFO  HomePage:134 - entered email addresslove@malinator.com
+2017-10-26 01:02:12 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (a5a5ef86-0009-d747-be91-cd2418594590)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 01:02:13 INFO  HomePage:138 - firstnamelove
+2017-10-26 01:03:21 INFO  HomePage:134 - entered email addresslove1@malinator.com
+2017-10-26 01:03:21 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (c724aaa1-6f23-e646-aaa3-45577fb8f73f)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 01:03:22 INFO  HomePage:138 - firstnamelove
+2017-10-26 01:03:23 INFO  HomePage:140 - lastnamearora
+2017-10-26 01:04:05 INFO  HomePage:134 - entered email addresslove1@malinator.com
+2017-10-26 01:04:06 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (38ba6bfd-f786-c648-9d27-69ab5cdf8953)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 01:04:06 INFO  HomePage:138 - firstnamelove
+2017-10-26 01:04:07 INFO  HomePage:140 - lastnamearora
+2017-10-26 01:04:35 INFO  HomePage:134 - entered email addresslove1@malinator.com
+2017-10-26 01:04:35 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (433c6139-5731-024a-a9ac-fef963af55b8)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 01:04:36 INFO  HomePage:138 - firstnamelove
+2017-10-26 01:04:37 INFO  HomePage:140 - lastnamearora
+2017-10-26 09:49:33 INFO  HomePage:134 - entered email addresslove1@malinator.com
+2017-10-26 09:49:34 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (b7be320c-6261-fb48-a077-ea89ac3f6baf)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 09:49:34 INFO  HomePage:138 - firstnamelove
+2017-10-26 09:49:35 INFO  HomePage:140 - lastnamearora
+2017-10-26 09:50:13 INFO  HomePage:134 - entered email addresslove2@malinator.com
+2017-10-26 09:50:14 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (8a854cfd-36f4-1841-9888-e36ab0b0c4b6)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 09:50:14 INFO  HomePage:138 - firstnamelove
+2017-10-26 09:50:15 INFO  HomePage:140 - lastnamearora
+2017-10-26 10:42:36 INFO  HomePage:134 - entered email addresslove2@malinator.com
+2017-10-26 10:42:36 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (fca941b6-55be-a54e-a290-dd66b7d96f26)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 10:42:36 INFO  HomePage:138 - firstnamelove
+2017-10-26 10:42:59 INFO  HomePage:134 - entered email addresslove3@malinator.com
+2017-10-26 10:42:59 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (2ecc6327-994a-fb40-8863-3907e4e03fb7)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 10:43:00 INFO  HomePage:138 - firstnamelove
+2017-10-26 10:43:35 INFO  HomePage:134 - entered email addresslove3@malinator.com
+2017-10-26 10:43:35 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (7446ba48-f42d-fb4b-b09d-8a3dc4f1fbc6)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 10:43:36 INFO  HomePage:138 - firstnamelove
+2017-10-26 10:43:37 INFO  HomePage:140 - lastnamearora
+2017-10-26 11:21:06 INFO  HomePage:134 - entered email addresslove3@malinator.com
+2017-10-26 11:22:04 INFO  HomePage:134 - entered email addresslove3@malinator.com
+2017-10-26 11:22:04 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (5d16f1e0-2665-3845-8ce7-07a234be5271)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 11:22:05 INFO  HomePage:138 - firstnamelove
+2017-10-26 11:22:06 INFO  HomePage:140 - lastnamearora
+2017-10-26 11:25:21 INFO  HomePage:134 - entered email addresslove4@malinator.com
+2017-10-26 11:25:21 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (4701af66-bd4f-924b-91f4-8f6d84966665)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 11:25:22 INFO  HomePage:138 - firstnamelove
+2017-10-26 11:25:23 INFO  HomePage:140 - lastnamearora
+2017-10-26 11:25:54 INFO  HomePage:134 - entered email addresslove4@malinator.com
+2017-10-26 11:25:54 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (b59a7cd2-39c5-2446-95c7-b5da84c411d7)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 11:25:54 INFO  HomePage:138 - firstnamelove
+2017-10-26 11:25:55 INFO  HomePage:140 - lastnamearora
+2017-10-26 11:25:58 INFO  HomePage:156 - registration msg islove arora
+2017-10-26 12:07:56 INFO  HomePage:134 - entered email addresslove5@malinator.com
+2017-10-26 12:07:57 INFO  HomePage:136 - clicked[[FirefoxDriver: firefox on MAC (57d30eda-08e9-3f4a-8226-212bc1004e15)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 12:07:57 INFO  HomePage:138 - firstnamelove
+2017-10-26 12:07:58 INFO  HomePage:140 - lastnamearora
+2017-10-26 12:08:01 INFO  HomePage:156 - registration msg islove arora
+2017-10-26 12:08:01 INFO  HomePage:161 - testing after succefuly signin
+2017-10-26 12:12:26 INFO  HomePage:135 - entered email addresslove6@malinator.com
+2017-10-26 12:12:26 INFO  HomePage:137 - clicked[[FirefoxDriver: firefox on MAC (9a0fc38b-43b1-db4b-ae8a-7479016fba14)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 12:12:26 INFO  HomePage:139 - firstnamelove
+2017-10-26 12:12:27 INFO  HomePage:141 - lastnamearora
+2017-10-26 12:12:30 INFO  HomePage:157 - registration msg islove arora
+2017-10-26 12:12:30 INFO  HomePage:162 - testing after succefuly signin
+2017-10-26 12:40:57 INFO  HomePage:138 - entered email addresslove7@malinator.com
+2017-10-26 12:40:58 INFO  HomePage:140 - clicked[[FirefoxDriver: firefox on MAC (16f1b5ae-3d98-8d41-afe1-1860de48f0f6)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 12:40:58 INFO  HomePage:142 - firstnamelove
+2017-10-26 12:40:59 INFO  HomePage:144 - lastnamearora
+2017-10-26 12:41:02 INFO  HomePage:160 - registration msg islove arora
+2017-10-26 12:41:02 INFO  HomePage:165 - testing after succefuly signinMy account
+2017-10-26 14:05:02 INFO  HomePage:138 - entered email addresslove8@malinator.com
+2017-10-26 14:05:03 INFO  HomePage:140 - clicked[[FirefoxDriver: firefox on MAC (89ac8274-aa27-3942-95af-b909da3d8dc9)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 14:05:03 INFO  HomePage:142 - firstnamelove
+2017-10-26 14:05:04 INFO  HomePage:144 - lastnamearora
+2017-10-26 14:05:08 INFO  HomePage:160 - registration msg islove arora
+2017-10-26 14:08:16 INFO  HomePage:138 - entered email addresslove9@malinator.com
+2017-10-26 14:08:16 INFO  HomePage:140 - clicked[[FirefoxDriver: firefox on MAC (7d09aec0-575d-014f-b93c-e8509be43d52)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 14:08:16 INFO  HomePage:142 - firstnamelove
+2017-10-26 14:08:17 INFO  HomePage:144 - lastnamearora
+2017-10-26 14:08:19 INFO  HomePage:160 - registration msg islove arora
+2017-10-26 14:08:20 INFO  HomePage:165 - testing after succefuly signinMy account
+2017-10-26 14:09:47 INFO  HomePage:138 - entered email addresslove19@malinator.com
+2017-10-26 14:09:48 INFO  HomePage:140 - clicked[[FirefoxDriver: firefox on MAC (5edc34bb-51e9-3448-a474-6d62f7c00940)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 14:09:48 INFO  HomePage:142 - firstnamelove
+2017-10-26 14:09:49 INFO  HomePage:144 - lastnamearora
+2017-10-26 14:09:53 INFO  HomePage:160 - registration msg islove arora
+2017-10-26 14:09:53 INFO  HomePage:165 - testing after succefuly signinMy account
+2017-10-26 19:31:26 INFO  HomePage:138 - entered email addresslove19@malinator.com
+2017-10-26 19:31:50 INFO  HomePage:140 - clicked[[ChromeDriver: chrome on MAC (c16eb9e4684ea9bbbf5862d5af6ddcbd)] -> xpath: html/body/div[1]/div[2]/div/div[3]/div/div/div[1]/form/div/div[3]/button]
+2017-10-26 19:31:50 INFO  HomePage:142 - firstnamelove
